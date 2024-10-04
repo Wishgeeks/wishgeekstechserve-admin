@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./index.css";
-import logo from "../../assests/image/png techserve logo white.png";
+import logo from "../../assests/image/techserve.png";
 
 const Login = () => {
   const [username, setUsername] = useState("");
